@@ -30,7 +30,7 @@ This project consists a wide range of topics from Selenium WebDriver Basics and 
 
 <h2>Environments Used </h2>
 
-- <b> Eclipse IDE, JDK, JUnit
+- <b> Eclipse IDE, JDK
 
 <h2>TestNG Design</h2>
 
