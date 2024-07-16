@@ -71,5 +71,11 @@
 	<classpathentry kind="lib" path="D:/Harini/selenium-java-4.18.1-jar files/lib/opentelemetry-semconv-1.23.1-alpha.jar"/>
 	<classpathentry kind="lib" path="D:/Harini/apache-log4j-2.23.1-bin/log4j-api-2.23.1.jar"/>
 	<classpathentry kind="lib" path="D:/Harini/apache-log4j-2.23.1-bin/log4j-core-2.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Harini/TestNG/guice-5.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Harini/TestNG/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="D:/Harini/TestNG/jquery-3.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Harini/TestNG/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="D:/Harini/TestNG/snakeyaml-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Harini/TestNG/testng-7.10.2.jar" sourcepath="D:/Harini/TestNG/testng-7.10.2-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
