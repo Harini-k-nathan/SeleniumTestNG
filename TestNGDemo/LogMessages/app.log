@@ -1,0 +1,3 @@
+13:55:59.415 DEBUG LoggingDemo -Debug message logged
+13:55:59.419 ERROR LoggingDemo -Error message logged
+13:55:59.419 FATAL LoggingDemo -Fatal message logged
